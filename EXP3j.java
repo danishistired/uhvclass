@@ -1,5 +1,5 @@
 import java.util.Scanner;
-#lmao two
+//lmao two
 class EXP3j{
     public static void main(String[] args){
         int[][] a = new int[3][3];
